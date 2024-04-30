@@ -1,0 +1,10 @@
+('E0001', 'Xiomi Smart TV A2 32 inc', 'ELK', 1800000, 10),
+('E0002', 'Miyako Kipas Angin 12 Inc Putih', 'ELK', 195000, 15),
+('E0003', 'Philips Setrika Uap Ungu', 'ELK', 330000, 12),
+('E0004' 'Mesin Cuci AQUA 1 Tabung', 'ELK', 1900000, 10),
+('P0001', 'Velvet Junior Baju Anak', 'PKN', 40000, 8),
+('P0002', 'Kaos Kerah Polo Shirt', 'PKN', 30000, 12),
+('P0003', 'Seruni Blouse Panjang Putih', 'PKN', 150000, 12),
+('S0001', 'Aerostreet 40-43 Tactical Hitam', 'SPT', 189900, 12),
+('S0002', 'Sepatu NB New Balance 547 Legacy Black White', 'SPT', 610000, 10),
+('S0003', 'Sepatu Adidas', 'SPT', 610000, 10);
